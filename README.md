@@ -1,6 +1,8 @@
 # 👋 Hello! 
 
-I'm a web developer based in Nigeria who is passionate about everything related to technology. When I'm not coding, you can find me exploring new places, playing sports, watching movies and reading developer blogs.
+My name is Ahiakwo John.
+
+I'm a web developer based in Nigeria who is passionate about everything related to programming and technology. When I'm not coding, you can find me playing chess, playing sports, watching movies and reading developer blogs.
 
 <!-- ## About Me
 - Location: Port Harcourt, Nigeria
