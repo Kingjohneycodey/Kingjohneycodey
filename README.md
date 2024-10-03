@@ -37,3 +37,10 @@ I'm a software engineer and fullstack web and mobile developer based in Nigeria 
 
 #### CMS
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/Kingjohneycodey)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kingjohneycodey&show_icons=true&locale=en&layout=compact" alt="Kingjohneycodey" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kingjohneycodey&show_icons=true&locale=en" alt="Kingjohneycodey" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kingjohneycodey&" alt="Kingjohneycodey" /></p>
