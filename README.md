@@ -2,7 +2,7 @@
 
 My name is Ahiakwo John also known as King Johney.
 
-I'm a software engineer and fullstack web2, web3 and mobile developer based in Nigeria who is passionate about everything related to programming and technology. When I'm not coding, you can find me playing chess, playing sports, watching movies and reading developer blogs.
+I'm a software engineer and fullstack web2, web3 and mobile developer based in Nigeria who is passionate about everything related to software development and technology. When I'm not coding, you can find me playing chess, watching movies or reading developer blogs.
 
 ## About Me
 - Location: Port Harcourt, Nigeria
@@ -12,13 +12,13 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 ## Projects
 - 🌐 I have built web solutions for various clients, creating responsive and user-friendly websites that meet their specific needs.
 - 🌱 Additionally, I have worked on different ecommerce and management systems for schools, offices, businesses and large companies.
-- I have also worked on open source projects for the benefit of the society.
+- ✅ I have also worked on open source projects for the benefit of the society.
 
 ## Skills
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/Kingjohneycodey)
-[![JavaScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Kingjohneycodey)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Kingjohneycodey)
 [![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Kingjohneycodey)
 
 #### Database
@@ -26,7 +26,6 @@ I'm a software engineer and fullstack web2, web3 and mobile developer based in N
 
 #### Front-End Frameworks
 [![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Kingjohneycodey)
-[![Nuxt.js](https://img.shields.io/badge/nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/Kingjohneycodey)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://github.com/Kingjohneycodey)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Kingjohneycodey)
 
